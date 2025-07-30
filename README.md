@@ -32,6 +32,9 @@ I’m just experimenting right now, but I plan to add more sections and differen
 - Integrate project showcases and animations
 
 ---
+## 🎬 Demo Video
+
+[Click here to watch the video](./portfolio.mp4)
 
 
 
