@@ -4,8 +4,11 @@ import Loader from './Loader'
 import Hero from './Hero'
 import NavBar from './NavBar'
 import SideBar from './SideBar'
-import TechStack from './TechStack'
-import Projects from './Projects'
+import EnhancedTechStack from './EnhancedTechStack'
+import EnhancedProjects from './EnhancedProjects'
+import Certificates from './Certificates'
+import AboutMe from './AboutMe'
+
 export default function App() {
   return (
     <>
@@ -17,8 +20,10 @@ export default function App() {
       <BackgroundWrapper>
         <Hero />
         <SideBar />
-        <TechStack />
-        <Projects />
+        <AboutMe />
+        <EnhancedTechStack />
+        <EnhancedProjects />
+        <Certificates />
       </BackgroundWrapper>
     </>
   )
